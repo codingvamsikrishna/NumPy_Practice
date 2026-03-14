@@ -14,5 +14,5 @@ This repository contains my learning notes and practice for **NumPy** using Goog
 
 - Python
 - NumPy
-- Google Colab
+- Google Colab 
 
